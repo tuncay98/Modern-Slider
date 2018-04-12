@@ -1,0 +1,109 @@
+
+.col-1{
+    height: 100%;
+    width: 100%;
+    float: left;
+}
+
+.col-2{
+    height: 100%;
+    width: 50%;
+    float: left;
+}
+
+
+
+.col-4{
+    height: 100%;
+    width: 300px;
+    float: left;
+}
+    
+.col-5{
+    height: 100%;
+    width: 400px;
+    float: left;
+}
+    
+.col-6{
+    height: 100%;
+    width: 16.66%;
+    float: left;
+}
+    
+.col-7{
+    height: 100%;
+    width: calc((100%/12)*7);
+    float: left;
+}
+    
+.col-8{
+    height: 100%;
+    width: 100%;
+    float: left;
+}
+    
+.col-9{
+    height: 100%;
+    width: calc((100%/12)*9);
+    float: left;
+}
+    
+.col-10{
+    height: 100%;
+    width: calc((100%/12)*10);
+    float: left;
+}
+    
+.col-11{
+    height: 100%;
+    width: calc((100%/12)*11);
+    float: left;
+}
+    
+.col-12{
+    height: 100%;
+    width: calc((100%/12)*12);
+    float: left;
+}
+    
+.colm-3{
+    height: 100%;
+    width: 25%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+ .colm-6{
+    height: 100%;
+    width: 50%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+    
+.colm-9{
+    height: 100%;
+    width: 75%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.colm-8{
+    height: 100%;
+    width: 3000px;
+    margin: 0 300px;
+    overflow: hidden;
+}
+.colm-10{
+    height: 100%;
+    width: 4000px;
+    margin: 0 auto;
+    overflow: hidden;
+    width: 4000px;
+}
+.colm-12{
+    height: 100%;
+    width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+    
+    
